@@ -1,0 +1,14 @@
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\bin\Debug\net8.0\C# PROJETO MUSICAL.exe
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\bin\Debug\net8.0\C# PROJETO MUSICAL.deps.json
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\bin\Debug\net8.0\C# PROJETO MUSICAL.runtimeconfig.json
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\bin\Debug\net8.0\C# PROJETO MUSICAL.dll
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\bin\Debug\net8.0\C# PROJETO MUSICAL.pdb
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\C# PROJETO MUSICAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\C# PROJETO MUSICAL.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\C# PROJETO MUSICAL.AssemblyInfo.cs
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\C# PROJETO MUSICAL.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\C# PROJETO MUSICAL.dll
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\refint\C# PROJETO MUSICAL.dll
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\C# PROJETO MUSICAL.pdb
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\C# PROJETO MUSICAL.genruntimeconfig.cache
+C:\Users\eduar\Desktop\C# PROJETO MUSICAL\obj\Debug\net8.0\ref\C# PROJETO MUSICAL.dll
